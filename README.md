@@ -6,8 +6,9 @@ Goal of the Game:
   1. Have the highest combined card value without going over 21
 
 Materials Used: 
-  1. 3 standard 52 decks of cards without jokers. 
-    * Adding more decks of cards decreases the chance that the dealer/casino could cheat in real life
+  1. 3 standard 52 decks of cards without jokers.
+    
+  * Adding more decks of cards decreases the chance that the dealer/casino could cheat in real life*
 
 How to Play: 
   1. To start, both the player and computer will have two random cards drawn 
